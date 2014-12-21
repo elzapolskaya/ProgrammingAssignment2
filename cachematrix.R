@@ -1,6 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## Write a short comment describing this function
+
 ## The first function "makeCacheMatrix" creates a special "matrix", 
 ## which containing a function to:
 ## 1. set the value of the matrix
